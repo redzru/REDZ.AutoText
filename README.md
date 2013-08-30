@@ -1,3 +1,5 @@
+Скачать последнюю версию REDZ.AutoText: https://github.com/redzru/REDZ.AutoText/releases
+
 REDZ.AutoText
 =============
 
